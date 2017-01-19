@@ -1,0 +1,19 @@
+{
+  "name": "carpusact.tv",
+  "version": "1.0.0",
+  "description": "carpusact.tv website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonofted57/carpusact.tv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonofted57/carpusact.tv/issues"
+  },
+  "homepage": "https://github.com/sonofted57/carpusact.tv#readme"
+}
