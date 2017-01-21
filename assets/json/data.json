@@ -1,0 +1,31 @@
+{
+    "homePagePosts": [{
+        "articleClass": "thumb",
+        "a": "images/fulls/01.jpg",
+        "className": "image",
+        "imgSrc": "images/thumbs/02.jpg",
+        "h2": "Metal Gear Solid V Ground Zeroes S Rank",
+        "p": "Metal Gear Solid V Ground Zeroes S Rank"
+    }, {
+        "articleClass": "thumb",
+        "a": "images/fulls/02.jpg",
+        "className": "image",
+        "imgSrc": "images/thumbs/02.jpg",
+        "h2": "Metal Gear Solid V Ground Zeroes S Rank",
+        "p": "Metal Gear Solid V Ground Zeroes S Rank"
+    }, {
+        "articleClass": "thumb",
+        "a": "images/fulls/03.jpg",
+        "className": "image",
+        "imgSrc": "images/thumbs/03.jpg",
+        "h2": "Metal Gear Solid V Ground Zeroes S Rank",
+        "p": "Metal Gear Solid V Ground Zeroes S Rank"
+    }, {
+        "articleClass": "thumb",
+        "a": "images/fulls/04.jpg",
+        "className": "image",
+        "imgSrc": "images/thumbs/04.jpg",
+        "h2": "Metal Gear Solid V Ground Zeroes S Rank",
+        "p": "Metal Gear Solid V Ground Zeroes S Rank"
+    }]
+}
