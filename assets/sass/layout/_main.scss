@@ -55,12 +55,14 @@
 
 			> h2 {
 				@include vendor('pointer-events', 'none');
+				width: 100%;
 				bottom: (1.5em / 0.8);
 				font-size: 0.8em;
-				left: (1.75em / 0.8);
+				// left: (1.75em / 0.8);
 				margin: 0;
 				position: absolute;
 				z-index: 1;
+				text-align: center;
 			}
 
 			> p {
